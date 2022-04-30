@@ -104,5 +104,5 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.hostinger.com'
 EMAIL_HOST_USER = 'dev@calyxservicios.com.ar'
-EMAIL_HOST_PASSWORD = 'H*nfR5t0iU'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
